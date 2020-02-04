@@ -1,0 +1,6 @@
+secure:safe
+security:safety
+sedate:calm
+sedative:tending to calm
+sediment:settled matter
+sedimentation:deposition
